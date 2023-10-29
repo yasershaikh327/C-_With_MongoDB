@@ -1,0 +1,60 @@
+﻿@import url('coursescss.css');
+li {
+    font-family: Satisfy;
+    font-size: x-large;
+    color: white;
+}
+
+a {
+    color: aliceblue;
+}
+
+    a:hover {
+        color: yellow;
+    }
+
+#Courses {
+    text-align: center;
+    border: 3px solid;
+    position: relative;
+    top: 4%;
+    background-color: #17005e;
+    color: white;
+    height: 8vh;
+    font-family: Satisfy;
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0.577);
+    border: 2px solid black;
+    border-radius: 10px;
+    color: black;
+    height: 80vh;
+}
+
+.container {
+    overflow-y: scroll;
+    width: 100%;
+    min-width: -webkit-fill-available;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+#para {
+    overflow-y: scroll;
+    height: 35vh;
+    font-size: medium;
+    clear: both;
+    font-family: system-ui;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+img {
+    position: inherit;
+    width: 100%;
+}

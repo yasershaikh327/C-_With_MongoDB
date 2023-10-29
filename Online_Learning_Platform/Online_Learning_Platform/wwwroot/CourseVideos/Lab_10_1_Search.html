@@ -1,0 +1,126 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+       h2 {
+    text-align: center;
+    font-family: quicksand;
+    font-size: xx-large;
+    width: 20%;
+    position: relative;
+    left: 40%;
+    border:3px inset black;
+}
+        h2:hover{
+            border:3px inset red;
+         }
+     
+        p{
+            font-family:Quicksand;
+        }
+        p#paragraph {
+    position: absolute;
+    top: 13%;
+    width: 50%;
+    left: 25%;
+    border: 3px inset red;
+    padding: 2%;
+}
+        .wrapper {
+    position: absolute;
+    top: 50%;
+    left: 37%;
+    border: 3px inset red;
+    padding: 2%;
+}
+input,button,label
+{
+     font-family: quicksand;
+     font-size: x-large; 
+}
+div#ck {
+    position: absolute;
+    left: 44%;
+    top: 77%;
+    border: 3px inset red;
+	padding:2%;
+}
+input#c2 {
+    position: relative;
+    left: 16%;
+}
+h1{
+    font-family:Quicksand;
+    font-weight:900;
+    text-align:center;
+    border:3px outset red;
+    width:50%;
+    position:relative;
+    left:25%;
+    padding:5px;
+}
+h1:hover{
+    color:red;
+}
+    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Searched Text With Regular Expression</title>
+<script type="text/javascript">
+    // Characters to be escaped [.*+?^${}()|[\]\\] 
+	
+    function search(){
+        var ck1=document.getElementById("c1");
+        var ck2=document.getElementById("c2");
+		
+		
+		
+		//Version 2 : Regular Expression
+        let textToSearch = document.getElementById("text-to-search").value;
+        let paragraph = document.getElementById("paragraph");
+        textToSearch = textToSearch.replace(/[.*+?^${}()|[\]\\]/gi,"\\$&");
+		let pattern;
+		let pattern1 ="\\b";
+		var pattern2=pattern1+textToSearch+pattern1;
+        if(ck1.checked==true)
+		{
+            pattern = new RegExp(`${textToSearch}`,"g");
+            paragraph.innerHTML = paragraph.textContent.replace(pattern, match => `<mark>${match}</mark>`)
+		}
+	    else if(ck2.checked==true)
+	    {
+            pattern = new RegExp(`${pattern2}`,"gi");
+            paragraph.innerHTML = paragraph.textContent.replace(pattern, match => `<mark>${match}</mark>`)
+	    }
+		    else if(ck1.checked==true && ck2.checked==true)
+	    {
+            pattern = new RegExp(`${ pattern2}`,"g");
+            paragraph.innerHTML = paragraph.textContent.replace(pattern, match => `<mark>${match}</mark>`)
+        }
+        else
+		{
+		    pattern = new RegExp(`${ textToSearch}`,"gi");
+		    paragraph.innerHTML = paragraph.textContent.replace(pattern, match => `<mark>${match}</mark>`)
+		}
+       
+    }   
+</script>
+</head>
+<body>
+    <h1><i>Search With <q>Regular Exression</q> - Version 2</i></h1>
+    <div class="container">
+        <div class="wrapper">
+            <input type="text" id="text-to-search" placeholder="Enter text to search..">
+            <button onclick="search()">Search</button>
+        </div>
+        <p id="paragraph">
+            He ordered his regular breakfast. Two eggs sunnyside up, hash browns, and two strips of bacon. He continued to look at the menu wondering if this would be the day he added something new. This was also part of the routine. A few seconds of hesitation to see if something else would be added to the order before demuring and saying that would be all. It was the same exact meal that he had ordered every day for the past two years.
+        </p>
+    </div>
+    <div id="ck">
+        <label>Case Sensitive : </label>
+        <input type="checkbox" value="Case Senstitive" id="c1" name="c1"/><br />
+        <label>Word Wrap : </label>
+        <input type="checkbox" value="Word Wrap" id="c2" name="c2"/>
+    </div>
+</body>
+</html>

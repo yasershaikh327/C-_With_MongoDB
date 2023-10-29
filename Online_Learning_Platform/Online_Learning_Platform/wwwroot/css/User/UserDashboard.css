@@ -1,0 +1,60 @@
+﻿
+li {
+    font-family: Satisfy;
+    font-size: x-large;
+    color: white;
+}
+
+a {
+    color: aliceblue;
+}
+
+    a:hover {
+        color: yellow
+    }
+
+table {
+    border: 3px solid black;
+    border-radius: 20px;
+    overflow: scroll;
+}
+
+td, th {
+    border: 1px solid;
+    background-color: white;
+}
+
+th {
+    background-color: rgba(43, 0, 255, 0.885);
+    color: white;
+    font-size: larger;
+    font-family: Satisfy;
+    ;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    background-image: url(Registration_Bg_Image.jpg);
+    background-size: cover;
+}
+
+section {
+    opacity: 0.8;
+}
+
+h2 {
+    text-align: center;
+    font-family: Satisfy;
+    background-color: #17005e;
+    color: white;
+    font-size: xx-large;
+    position: relative;
+    height: 8vh;
+}
+
+.table-responsive {
+    height: 40%;
+}

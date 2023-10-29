@@ -1,0 +1,29 @@
+﻿li {
+    font-family: Satisfy;
+    font-size: x-large;
+    color: white;
+}
+
+a {
+    color: aliceblue;
+}
+
+    a:hover {
+        color: yellow
+    }
+
+
+
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    background-image: url(Registration_Bg_Image.jpg);
+    background-size: cover;
+}
+
+section {
+    opacity: 0.8;
+}

@@ -1,0 +1,393 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\CourseVideos\\Lab_10_1_Search.html",
+      "PackagePath": "staticwebassets\\CourseVideos\\Lab_10_1_Search.html"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\CourseVideos\\pexels-max-griss-11487648 (Original).mp4",
+      "PackagePath": "staticwebassets\\CourseVideos\\pexels-max-griss-11487648 (Original).mp4"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\Image\\pexels-pixabay-209695.jpg",
+      "PackagePath": "staticwebassets\\Image\\pexels-pixabay-209695.jpg"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\LocalImages\\Photo.PNG",
+      "PackagePath": "staticwebassets\\LocalImages\\Photo.PNG"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\LocalImages\\Registration_Bg_Image.jpg",
+      "PackagePath": "staticwebassets\\LocalImages\\Registration_Bg_Image.jpg"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\LocalImages\\pexels-donald-tong-66134.jpg",
+      "PackagePath": "staticwebassets\\LocalImages\\pexels-donald-tong-66134.jpg"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\LocalImages\\pexels-max-griss-11487648 (Original).mp4",
+      "PackagePath": "staticwebassets\\LocalImages\\pexels-max-griss-11487648 (Original).mp4"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\LocalImages\\pexels-pixabay-209695.jpg",
+      "PackagePath": "staticwebassets\\LocalImages\\pexels-pixabay-209695.jpg"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\css\\Admin\\AddCourse.css",
+      "PackagePath": "staticwebassets\\css\\Admin\\AddCourse.css"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\css\\Admin\\AdminDashboard.css",
+      "PackagePath": "staticwebassets\\css\\Admin\\AdminDashboard.css"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\css\\Home\\Contactcss.css",
+      "PackagePath": "staticwebassets\\css\\Home\\Contactcss.css"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\css\\Home\\CourseDetailscss.css",
+      "PackagePath": "staticwebassets\\css\\Home\\CourseDetailscss.css"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\css\\Home\\Coursescss.css",
+      "PackagePath": "staticwebassets\\css\\Home\\Coursescss.css"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\css\\Home\\Index.css",
+      "PackagePath": "staticwebassets\\css\\Home\\Index.css"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\css\\Home\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Home\\Login.css"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\css\\Home\\Registration.css",
+      "PackagePath": "staticwebassets\\css\\Home\\Registration.css"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\css\\User\\Contact.css",
+      "PackagePath": "staticwebassets\\css\\User\\Contact.css"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\css\\User\\Payment.css",
+      "PackagePath": "staticwebassets\\css\\User\\Payment.css"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\css\\User\\UserDashboard.css",
+      "PackagePath": "staticwebassets\\css\\User\\UserDashboard.css"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\css\\User\\UserProfile.css",
+      "PackagePath": "staticwebassets\\css\\User\\UserProfile.css"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\js\\Admin\\AddCourse.js",
+      "PackagePath": "staticwebassets\\js\\Admin\\AddCourse.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\js\\Admin\\AddWebinar.js",
+      "PackagePath": "staticwebassets\\js\\Admin\\AddWebinar.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\js\\Admin\\AdminDashboard.js",
+      "PackagePath": "staticwebassets\\js\\Admin\\AdminDashboard.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\js\\Admin\\ContactFeedback.js",
+      "PackagePath": "staticwebassets\\js\\Admin\\ContactFeedback.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\js\\Home\\Contact.js",
+      "PackagePath": "staticwebassets\\js\\Home\\Contact.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\js\\Home\\Courses.js",
+      "PackagePath": "staticwebassets\\js\\Home\\Courses.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\js\\Home\\ForgetPassword.js",
+      "PackagePath": "staticwebassets\\js\\Home\\ForgetPassword.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\js\\Home\\Login.js",
+      "PackagePath": "staticwebassets\\js\\Home\\Login.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\js\\Home\\MoreCourseDetails.js",
+      "PackagePath": "staticwebassets\\js\\Home\\MoreCourseDetails.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\js\\Home\\Registration.js",
+      "PackagePath": "staticwebassets\\js\\Home\\Registration.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\js\\Home\\Webinar.js",
+      "PackagePath": "staticwebassets\\js\\Home\\Webinar.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\js\\User\\Courses.js",
+      "PackagePath": "staticwebassets\\js\\User\\Courses.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\js\\User\\Payment.js",
+      "PackagePath": "staticwebassets\\js\\User\\Payment.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\js\\User\\UpdateProfile.js",
+      "PackagePath": "staticwebassets\\js\\User\\UpdateProfile.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\js\\User\\UserDashboard.js",
+      "PackagePath": "staticwebassets\\js\\User\\UserDashboard.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\C#\\Online_Learning_Platform\\Online_Learning_Platform\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Online_Learning_Platform.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Online_Learning_Platform.props",
+      "PackagePath": "build\\Online_Learning_Platform.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Online_Learning_Platform.props",
+      "PackagePath": "buildMultiTargeting\\Online_Learning_Platform.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Online_Learning_Platform.props",
+      "PackagePath": "buildTransitive\\Online_Learning_Platform.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
