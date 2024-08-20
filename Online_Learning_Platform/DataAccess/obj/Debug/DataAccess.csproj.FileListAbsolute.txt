@@ -1,7 +1,0 @@
-E:\C#\Online_Learning_Platform\DataAccess\bin\Debug\DataAccess.exe.config
-E:\C#\Online_Learning_Platform\DataAccess\bin\Debug\DataAccess.exe
-E:\C#\Online_Learning_Platform\DataAccess\bin\Debug\DataAccess.pdb
-E:\C#\Online_Learning_Platform\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
-E:\C#\Online_Learning_Platform\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
-E:\C#\Online_Learning_Platform\DataAccess\obj\Debug\DataAccess.exe
-E:\C#\Online_Learning_Platform\DataAccess\obj\Debug\DataAccess.pdb
